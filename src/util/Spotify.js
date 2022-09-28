@@ -1,4 +1,4 @@
-const clientID = "e949f0cece49480f9a3966705e1b5983";
+const clientID = "*Your Own Cilent ID*";
 const redirectUri = "http://localhost:3000/";
 let accessToken;
 
